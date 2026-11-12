@@ -1,0 +1,7 @@
+[
+  {"id":"ab","rev":1,"deleted":false,"src":"A","dst":"B","start":0,"end":10},
+  {"id":"bc","rev":1,"deleted":false,"src":"B","dst":"C","start":2,"end":8},
+  {"id":"cb","rev":1,"deleted":false,"src":"C","dst":"B","start":1,"end":9},
+  {"id":"cd","rev":1,"deleted":false,"src":"C","dst":"D","start":4,"end":12},
+  {"id":"ac","rev":1,"deleted":false,"src":"A","dst":"C","start":6,"end":9}
+]

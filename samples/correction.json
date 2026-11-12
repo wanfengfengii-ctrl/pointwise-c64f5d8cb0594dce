@@ -1,0 +1,5 @@
+[
+  {"id":"bc","rev":2,"deleted":true},
+  {"id":"ab","rev":2,"deleted":false,"src":"A","dst":"B","start":0,"end":5},
+  {"id":"bd","rev":1,"deleted":false,"src":"B","dst":"D","start":3,"end":8}
+]
